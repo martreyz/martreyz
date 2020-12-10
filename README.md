@@ -9,8 +9,7 @@
 
    Ahora me **reinvento** como **desarrolladora front-end**, en un mundo de programación que me resulta **apasionante**, **dinámico** e **infinito**, y en el que puedo aplicar todas las habilidades que he adquirido en mi carrera profesional. 
 
-
-                                   <📫> [Email](martreyz@gmail.com) || [Twitter](@im_martreyz) || [Linkedin](https://www.linkedin.com/in/martareyrodriguez/)</📫>
+<📫> [Email](martreyz@gmail.com) || [Twitter](@im_martreyz) || [Linkedin](https://www.linkedin.com/in/martareyrodriguez/)</📫>
 
 
 
