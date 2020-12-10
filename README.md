@@ -1,6 +1,9 @@
 ![IMG_0563](https://user-images.githubusercontent.com/69849664/101788417-5bbbb880-3b00-11eb-89fd-457b8257d88f.jpg)
 
 
+   
+   
+   
    Me gradué en **turismo** con 22 años, aunque mi **pasión por conocer mundo** y sus **diferentes culturas** y personas es de nacimiento. 
 
    Mi **perseverancia** y **facilidad de aprendizaje** han sido clave en mi trayectoria profesional, y me han llevado a dedicarme durante años al **análisis de oferta y demanda**. 
