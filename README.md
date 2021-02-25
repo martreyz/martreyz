@@ -27,6 +27,8 @@ ___
   
    
 
+
+![Martreyz's GitHub stats](https://github-readme-stats.vercel.app/api?username=martreyz&show_icons=true&theme=dracula)
 ___
 
 ## Contacto:
