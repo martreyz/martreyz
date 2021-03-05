@@ -4,7 +4,7 @@
 ## :wave: **Hi there! I'm Marta!** 
 
 
-
+<div align="right">
 
 ### :woman_technologist: &nbsp;About Me:
 
@@ -16,7 +16,7 @@
 :briefcase: I have been team **coordinator** in IT projects, which has given me experience in **problem solving**, **organization**, **empathy** and **team motivation**.  
 :art: I consider myself a **creative** person and I love **challenges**.  
 
-
+</div>
 
 ### 🛠 &nbsp;Tech Stack:
 
