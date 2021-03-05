@@ -17,7 +17,7 @@
 :briefcase: I have been team **coordinator** in IT projects, which has given me experience in **problem solving**, **organization**, **empathy** and **team motivation**.  
 :art: I consider myself a **creative** person and I love **challenges**.  
 
-***
+
 
 ### 🛠 &nbsp;Tech Stack:
 
@@ -37,7 +37,7 @@
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![Postman](https://img.shields.io/badge/-Postman-05122A?style=flat&logo=postman)\
 
-***
+
 
 ### :toolbox: &nbsp;Other frequently used tools:
 
@@ -50,7 +50,7 @@
 ![Discord](https://img.shields.io/badge/-Discord-05122A?style=flat&logo=discord)&nbsp;
 ![Zeplin](https://img.shields.io/badge/-Zeplin-05122A?style=flat&logo=zeplin)&nbsp;
 
-***
+
 
 ### ⚙️ &nbsp;GitHub Analytics:
 
@@ -59,7 +59,7 @@
 ![Martreyz's GitHub stats](https://github-readme-stats.vercel.app/api?username=martreyz&show_icons=true&theme=onedark&layout=compact)
 ![Martreyz's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=martreyz&theme=onedark&layout=compact)
 
-***
+
 
 ### :call_me_hand: &nbsp;Hey! You just found me, and this is crazy, so here is my data, contact me! (maybe) :musical_note::
 
