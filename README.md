@@ -1,5 +1,8 @@
+<div width="100%">
+
 ![mosaicogh](https://user-images.githubusercontent.com/69849664/110155631-29abb100-7de6-11eb-94bc-cc5f01b6b4ec.png)
 
+</div>
 
 ## :wave: **Hi there! I'm Marta!** 
 
