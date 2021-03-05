@@ -1,13 +1,15 @@
-<div width="100vw">
+
 
 ![mosaicogh2](https://user-images.githubusercontent.com/69849664/110167441-0a1c8480-7df6-11eb-9d0f-644652251045.png)
 
-</div>
 
+<div align="center">
+  
 ## :wave: **Hi there! I'm Marta!** 
 
+</div>
 
-<div margin="20px" align="left">
+<div align="left">
 
 ### :woman_technologist: &nbsp;About Me:
 
@@ -58,7 +60,11 @@
 
 </span>
 
-<div align="right">
+
+
+
+
+<div align="left">
 
 ### ⚙️ &nbsp;GitHub Analytics:
 
@@ -68,6 +74,10 @@
 ![Martreyz's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=martreyz&theme=onedark&layout=compact)
 
 </div>
+
+
+
+
 
 <div align="center">
 
