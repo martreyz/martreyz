@@ -1,6 +1,6 @@
 <div width="100vw">
 
-![mosaicogh2](https://user-images.githubusercontent.com/69849664/110167188-b1e58280-7df5-11eb-9d4f-52c4a3cb9b69.png)
+![mosaicogh2](https://user-images.githubusercontent.com/69849664/110167441-0a1c8480-7df6-11eb-9d0f-644652251045.png)
 
 </div>
 
