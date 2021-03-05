@@ -20,7 +20,7 @@
 :art: I consider myself a **creative** person and I love **challenges**.  
 
 </div>
-<div align="right">
+<span align="left">
 
 ### 🛠 &nbsp;Tech Stack:
 
@@ -38,10 +38,10 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)\
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-![Postman](https://img.shields.io/badge/-Postman-05122A?style=flat&logo=postman)\
+![Postman](https://img.shields.io/badge/-Postman-05122A?style=flat&logo=postman)
 
-</div>
-<div align="left">
+</span>
+<span align="right">
 
 ### :toolbox: &nbsp;Other frequently used tools:
 
@@ -56,7 +56,7 @@
 ![Ubuntu](https://img.shields.io/badge/-Ubuntu-05122A?style=flat&logo=ubuntu)&nbsp;
 ![Windows](https://img.shields.io/badge/-Windows-05122A?style=flat&logo=windows)&nbsp;
 
-</div>
+</span>
 
 <div align="right">
 
@@ -91,4 +91,4 @@
 
 
 
-![mosaicodownrealGH](https://user-images.githubusercontent.com/69849664/110164569-d17aac00-7df1-11eb-8293-df1f0c4a1c17.png)
+![mosaicodownrealGH](https://user-images.githubusercontent.com/69849664/110167698-67b0d100-7df6-11eb-93d7-020dc7d5acf2.png)
