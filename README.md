@@ -63,12 +63,12 @@
 
 
   
-<div align="left">
+
 
    
 ### ⚙️ &nbsp;GitHub Analytics:
 
-
+<div align="center">
 
 ![Martreyz's GitHub stats](https://github-readme-stats.vercel.app/api?username=martreyz&show_icons=true&theme=onedark&layout=compact)
 ![Martreyz's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=martreyz&theme=onedark&layout=compact)
