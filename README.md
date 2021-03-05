@@ -16,9 +16,6 @@
 
 ***
 
-
-
-
 ### 🛠 &nbsp;Tech Stack:
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
@@ -35,7 +32,7 @@
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![Postman](https://img.shields.io/badge/-Postman-05122A?style=flat&logo=postman)\
 
-
+***
 
 ### :toolbox: &nbsp;Other frequently used tools:
 
@@ -46,25 +43,24 @@
 ![Discord](https://img.shields.io/badge/-Discord-05122A?style=flat&logo=discord)&nbsp;
 ![Zeplin](https://img.shields.io/badge/-Zeplin-05122A?style=flat&logo=zeplin)&nbsp;
 
-
+***
 
 ### ⚙️ &nbsp;GitHub Analytics:
 
 ![Martreyz's GitHub stats](https://github-readme-stats.vercel.app/api?username=martreyz&show_icons=true&theme=onedark&layout=compact)
 ![Martreyz's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=martreyz&theme=onedark&layout=compact)
 
-
+***
 
 ### :call_me_hand: &nbsp;Hey! You just found me, and this is crazy, so here is my data, contact me! (maybe) :musical_note::
 
-![Twitter](https://img.shields.io/twitter/follow/im_martreyz?label=Twitter&style=social)&nbsp;
-![Github](https://img.shields.io/github/followers/martreyz?label=Github&style=social)&nbsp;
+
+[![Twitter](https://img.shields.io/twitter/follow/im_martreyz?label=Twitter&style=social)&nbsp;](https://twitter.com/im_martreyz)
+[![Github](https://img.shields.io/github/followers/martreyz?label=Github&style=social)&nbsp;](https://github.com/martreyz)
 [![Email](https://img.shields.io/badge/-martreyz@gmail.com-05122A?style=flat&logo=gmail&color=grey)](mailto:martreyz@gmail.com)
 [![Linkedin](https://img.shields.io/badge/-martareyrodriguez-05122A?style=flat&logo=linkedin&color=grey)](https://www.linkedin.com/in/martareyrodriguez/?locale=es_ES)
 [![Codepen](https://img.shields.io/badge/-@martreyz-05122A?style=flat&logo=codepen&color=grey)](https://codepen.io/martreyz)
-
-
-![Portfolio](https://martreyz.github.io/portfolio/#/)
+[Portfolio](https://martreyz.github.io/portfolio/#/)
 
 
 
