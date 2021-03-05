@@ -4,7 +4,7 @@
 ## :wave: **Hi there! I'm Marta!** 
 
 
-<div align="left">
+<div margin="20px" align="left">
 
 ### :woman_technologist: &nbsp;About Me:
 
