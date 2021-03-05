@@ -5,7 +5,6 @@
 
 
 
----
 
 ### :woman_technologist: &nbsp;About Me:
 
@@ -49,6 +48,8 @@
 ![Slack](https://img.shields.io/badge/-Slack-05122A?style=flat&logo=slack)&nbsp;
 ![Discord](https://img.shields.io/badge/-Discord-05122A?style=flat&logo=discord)&nbsp;
 ![Zeplin](https://img.shields.io/badge/-Zeplin-05122A?style=flat&logo=zeplin)&nbsp;
+![Ubuntu](https://img.shields.io/badge/-Ubuntu-05122A?style=flat&logo=ubuntu)&nbsp;
+![Windows](https://img.shields.io/badge/-Windows-05122A?style=flat&logo=windows)&nbsp;
 
 
 
@@ -70,7 +71,14 @@
 [![Email](https://img.shields.io/badge/-martreyz@gmail.com-05122A?style=flat&logo=gmail&color=grey)](mailto:martreyz@gmail.com)
 [![Linkedin](https://img.shields.io/badge/-martareyrodriguez-05122A?style=flat&logo=linkedin&color=grey)](https://www.linkedin.com/in/martareyrodriguez/?locale=es_ES)
 [![Codepen](https://img.shields.io/badge/-@martreyz-05122A?style=flat&logo=codepen&color=grey)](https://codepen.io/martreyz)
-[Portfolio](https://martreyz.github.io/portfolio/#/)
+[![Hackerrank](https://img.shields.io/badge/-@martreyz-05122A?style=flat&logo=hackerrank)](https://www.hackerrank.com/martreyz)   
+[![Portfolio](https://img.shields.io/website?color=red&label=portfolio&style=for-the-badge&url=https%3A%2F%2Fmartreyz.github.io%2Fportfolio)](https://martreyz.github.io/portfolio/#/)
+
+
+
+
+
+
 
 
 
