@@ -57,14 +57,14 @@
 ![Zeplin](https://img.shields.io/badge/-Zeplin-05122A?style=flat&logo=zeplin)&nbsp;
 ![Ubuntu](https://img.shields.io/badge/-Ubuntu-05122A?style=flat&logo=ubuntu)&nbsp;
 ![Windows](https://img.shields.io/badge/-Windows-05122A?style=flat&logo=windows)&nbsp;\
-\
+
 
 </span>
 
 
   
 <div align="left">
-
+\
 
 ### ⚙️ &nbsp;GitHub Analytics:
 
