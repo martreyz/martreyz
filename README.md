@@ -4,7 +4,7 @@
 ## :wave: **Hi there! I'm Marta!** 
 
 
-<div align="right">
+<div align="left">
 
 ### :woman_technologist: &nbsp;About Me:
 
@@ -17,6 +17,7 @@
 :art: I consider myself a **creative** person and I love **challenges**.  
 
 </div>
+<div align="right">
 
 ### 🛠 &nbsp;Tech Stack:
 
@@ -36,7 +37,8 @@
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![Postman](https://img.shields.io/badge/-Postman-05122A?style=flat&logo=postman)\
 
-
+</div>
+<div align="left">
 
 ### :toolbox: &nbsp;Other frequently used tools:
 
@@ -51,7 +53,9 @@
 ![Ubuntu](https://img.shields.io/badge/-Ubuntu-05122A?style=flat&logo=ubuntu)&nbsp;
 ![Windows](https://img.shields.io/badge/-Windows-05122A?style=flat&logo=windows)&nbsp;
 
+</div>
 
+<div align="right">
 
 ### ⚙️ &nbsp;GitHub Analytics:
 
@@ -60,7 +64,9 @@
 ![Martreyz's GitHub stats](https://github-readme-stats.vercel.app/api?username=martreyz&show_icons=true&theme=onedark&layout=compact)
 ![Martreyz's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=martreyz&theme=onedark&layout=compact)
 
+</div>
 
+<div align="center">
 
 ### :call_me_hand: &nbsp;Hey! You just found me, and this is crazy, so here is my data, contact me! (maybe) :musical_note::
 
@@ -74,7 +80,7 @@
 [![Hackerrank](https://img.shields.io/badge/-@martreyz-05122A?style=flat&logo=hackerrank)](https://www.hackerrank.com/martreyz)   
 [![Portfolio](https://img.shields.io/website?color=red&label=portfolio&style=for-the-badge&url=https%3A%2F%2Fmartreyz.github.io%2Fportfolio)](https://martreyz.github.io/portfolio/#/)
 
-
+</div>
 
 
 
