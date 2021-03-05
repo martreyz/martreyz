@@ -61,9 +61,11 @@
 </span>
 
 
+  
+<div align="left">
 \
 \   
-<div align="left">
+  
 ### ⚙️ &nbsp;GitHub Analytics:
 
 
