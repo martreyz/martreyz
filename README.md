@@ -5,13 +5,13 @@
 
 <div align="center">
   
-## :wave: **Hi there! I'm Marta!** 
+# :wave: **Hi there! I'm Marta!** 
 
 </div>
 
 <div align="left">
 
-### :woman_technologist: &nbsp;About Me:
+## :woman_technologist: &nbsp;About Me:
 
 
 
@@ -25,10 +25,10 @@
 
 ---
 
-<span align="left">
+<span align="center">
 
-### 🛠 &nbsp;Tech Stack:
-
+## 🛠 &nbsp;Tech Stack:
+</span>
 
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
@@ -45,7 +45,7 @@
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![Postman](https://img.shields.io/badge/-Postman-05122A?style=flat&logo=postman)
 
-</span>
+
 <span align="right">
 
 ### :toolbox: &nbsp;Other frequently used tools:
@@ -66,7 +66,7 @@
 
 ---   
 
-### ⚙️ &nbsp;GitHub Analytics:
+## ⚙️ &nbsp;GitHub Analytics:
 
 <div align="center">
 
@@ -79,7 +79,7 @@
 
 <div align="center">
 
-### :call_me_hand: &nbsp;Hey! You just found me, and this is crazy, so here is my data, contact me! (maybe) :musical_note::
+## :call_me_hand: &nbsp;Hey! You just found me, and this is crazy, so here is my data, contact me! (maybe) :musical_note::
 
 
 
