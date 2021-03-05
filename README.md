@@ -59,12 +59,12 @@
 
 ![Twitter](https://img.shields.io/twitter/follow/im_martreyz?label=Twitter&style=social)&nbsp;
 ![Github](https://img.shields.io/github/followers/martreyz?label=Github&style=social)&nbsp;
-![Email](https://img.shields.io/badge/-martreyz@gmail.com-05122A?style=flat&logo=gmail&color=grey)
-![Linkedin](https://img.shields.io/badge/-martareyrodriguez-05122A?style=flat&logo=linkedin&color=grey)
-![Codepen](https://img.shields.io/badge/-@martreyz-05122A?style=flat&logo=codepen&color=grey)
+[![Email](https://img.shields.io/badge/-martreyz@gmail.com-05122A?style=flat&logo=gmail&color=grey)](mailto:martreyz@gmail.com)
+[![Linkedin](https://img.shields.io/badge/-martareyrodriguez-05122A?style=flat&logo=linkedin&color=grey)](https://www.linkedin.com/in/martareyrodriguez/?locale=es_ES)
+[![Codepen](https://img.shields.io/badge/-@martreyz-05122A?style=flat&logo=codepen&color=grey)](https://codepen.io/martreyz)
 
 
-![Portfolio](https://img.shields.io/badge/-martreyz@gmail.com-05122A?style=flat&logo=gmail&color=grey)
+![Portfolio](https://martreyz.github.io/portfolio/#/)
 
 
 
