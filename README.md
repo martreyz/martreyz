@@ -22,6 +22,7 @@
 :art: I consider myself a **creative** person and I love **challenges**.  
 
 </div>
+---
 <span align="left">
 
 ### 🛠 &nbsp;Tech Stack:
@@ -60,12 +61,7 @@
 
 
 </span>
-
-
-  
-
-
-   
+---   
 ### ⚙️ &nbsp;GitHub Analytics:
 
 <div align="center">
@@ -74,12 +70,7 @@
 ![Martreyz's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=martreyz&theme=onedark&layout=compact)   
 
 </div>
-
-
-  
-   
-
-
+---
 <div align="center">
 
 ### :call_me_hand: &nbsp;Hey! You just found me, and this is crazy, so here is my data, contact me! (maybe) :musical_note::
