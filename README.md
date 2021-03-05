@@ -3,9 +3,12 @@
 
 ## :wave: **Hi there! I'm Marta!** 
 
+
+
 ---
 
 ### :woman_technologist: &nbsp;About Me:
+
 
 
 :computer: **Front end developer** with HTML, CSS, JS and React, and visual design skills.  
@@ -17,6 +20,8 @@
 ***
 
 ### 🛠 &nbsp;Tech Stack:
+
+
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
@@ -36,6 +41,8 @@
 
 ### :toolbox: &nbsp;Other frequently used tools:
 
+
+
 ![Notion](https://img.shields.io/badge/-Notion-05122A?style=flat&logo=notion)&nbsp;
 ![Trello](https://img.shields.io/badge/-Trello-05122A?style=flat&logo=trello)&nbsp;
 ![Figma](https://img.shields.io/badge/-Figma-05122A?style=flat&logo=figma)\
@@ -47,12 +54,15 @@
 
 ### ⚙️ &nbsp;GitHub Analytics:
 
+
+
 ![Martreyz's GitHub stats](https://github-readme-stats.vercel.app/api?username=martreyz&show_icons=true&theme=onedark&layout=compact)
 ![Martreyz's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=martreyz&theme=onedark&layout=compact)
 
 ***
 
 ### :call_me_hand: &nbsp;Hey! You just found me, and this is crazy, so here is my data, contact me! (maybe) :musical_note::
+
 
 
 [![Twitter](https://img.shields.io/twitter/follow/im_martreyz?label=Twitter&style=social)&nbsp;](https://twitter.com/im_martreyz)
@@ -64,3 +74,4 @@
 
 
 
+![mosaicodownrealGH](https://user-images.githubusercontent.com/69849664/110164569-d17aac00-7df1-11eb-8293-df1f0c4a1c17.png)
