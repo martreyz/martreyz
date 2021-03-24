@@ -1,6 +1,6 @@
 
 
-![mosaicogh2](https://user-images.githubusercontent.com/69849664/110167441-0a1c8480-7df6-11eb-9d0f-644652251045.png)
+![headerTwitter](https://user-images.githubusercontent.com/69849664/112338192-e2b32c00-8cbe-11eb-81f3-fb8d8febb4a9.PNG)
 
 
 <div align="center">
